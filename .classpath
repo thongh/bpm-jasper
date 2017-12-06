@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_80"/>
+	<classpathentry kind="lib" path="C:/Users/Thong Huynh/Downloads/jasperreports-6.4.3.jar"/>
+	<classpathentry kind="lib" path="F:/LIBRARY JASAPER/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="F:/LIBRARY JASAPER/commons-beanutils-1.9.3.jar"/>
+	<classpathentry kind="lib" path="F:/LIBRARY JASAPER/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="F:/LIBRARY JASAPER/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="F:/LIBRARY JASAPER/commons-javaflow-1590792.jar"/>
+	<classpathentry kind="lib" path="F:/LIBRARY JASAPER/db2jcc.jar"/>
+	<classpathentry kind="lib" path="F:/LIBRARY JASAPER/itext-2.1.7.jar"/>
+	<classpathentry kind="lib" path="F:/LIBRARY JASAPER/itextpdf-5.5.0.jar"/>
+	<classpathentry kind="lib" path="F:/LIBRARY JASAPER/itext-pdfa-5.5.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
